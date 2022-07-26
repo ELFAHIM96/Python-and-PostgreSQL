@@ -24,5 +24,7 @@ with psycopg2.connect(host= hostname,
 ```
 ###  CSV files to database PostgreSQL with Python
 This part I write a code to automaticlly import CSV file to PostgreSQL database using python function
-specifically be showing you how to import a CSV file to a postgres database 
-[import CSV to postgreSQL](https://github.com/ELFAHIM96/Python-and-PostgreSQL/blob/main/csv2db.py)
+specifically be showing you how to import a CSV file to a postgres database
+
+:red_square: [import CSV to postgreSQL](https://github.com/ELFAHIM96/Python-and-PostgreSQL/blob/main/csv2db.py)
+![bfile](https://user-images.githubusercontent.com/65721811/181066530-2dcf6301-2c11-44a8-bf23-ea444da4e9c5.png)
